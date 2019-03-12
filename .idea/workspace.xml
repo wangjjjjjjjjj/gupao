@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b81a33d0-5ce5-474b-ac9c-769dcde6ecee" name="Default Changelist" comment="" />
+    <list default="true" id="b81a33d0-5ce5-474b-ac9c-769dcde6ecee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/factory/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/hungry/Hungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/hungry/HungryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/lazy/Lazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/lazy/ThreadExector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/pattern/singleton/register/LazyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,112 +22,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/Lazy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/register/LazyEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiFactory.java">
+        <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/register/EnumSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-              <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="184">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/simple/Mobile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AbstactFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AppleFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="36" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wangjjjjjjjjj-space.iml">
+        <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/register/ContainerSingleton.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/PlaygameFactory.java">
+        <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/seriable/SeriableSingleton.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/threadlocal/ThreadLocalSingleton.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/test/java/com/gupaoedu/vip/pattern/singleton/test/EnumSingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="328">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiPlaygame.java">
+        <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyInner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="184">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/ApplePlaygame.java">
+        <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="54" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="54" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AppleCall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="193">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -130,6 +104,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,14 +131,27 @@
         <option value="$PROJECT_DIR$/src/study/pattern/factory/abstr/AbstactFactory.java" />
         <option value="$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiFactory.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/factory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/hungry/Hungry.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/hungry/HungrtTest.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/hungry/HungryTest.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyReflect.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/lazy/Lazy.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyTest.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/lazy/ThreadExector.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyInner.java" />
+        <option value="$PROJECT_DIR$/src/study/pattern/singleton/register/LazyEnum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="96" />
-    <option name="y" value="36" />
+    <option name="x" value="56" />
+    <option name="y" value="8" />
     <option name="width" value="1750" />
     <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -184,41 +174,35 @@
               <item name="wangjjjjjjjjj-space" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangjjjjjjjjj-space" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangjjjjjjjjj-space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangjjjjjjjjj-space" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wangjjjjjjjjj-space" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangjjjjjjjjj-space" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="abstr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangjjjjjjjjj-space" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangjjjjjjjjj-space" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="fact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangjjjjjjjjj-space" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangjjjjjjjjj-space" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552206084507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552403746618" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/study/pattern/factory/fact" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -238,7 +222,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LazyTest">
+    <configuration name="HungryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.pattern.singleton.hungry.HungryTest" />
+      <module name="wangjjjjjjjjj-space" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.pattern.singleton.hungry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LazyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.pattern.singleton.lazy.LazyTest" />
+      <module name="wangjjjjjjjjj-space" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.pattern.singleton.lazy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="wangjjjjjjjjj-space" />
@@ -251,6 +261,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LazyTest" />
+        <item itemvalue="Application.HungryTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -266,11 +278,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552113073255</updated>
       <workItem from="1552113079265" duration="8300000" />
+      <workItem from="1552211953471" duration="11058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8300000" />
+    <option name="totallyTimeSpent" value="19358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,48 +298,42 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2077748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21045576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32956153" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.33569404" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/fact/Mobile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/fact/Mobile.java" />
     <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/simple/HUAWEIMobile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -334,17 +341,6 @@
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/simple/AppleMobile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -455,21 +451,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/PlaygameFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="207">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiPlaygame.java">
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/simple/Mobile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -480,26 +476,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AppleCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AppleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="36" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="36" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangjjjjjjjjj-space.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/PlaygameFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiPlaygame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -510,38 +516,446 @@
           <caret line="2" column="54" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="54" />
           <folding>
             <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/simple/Mobile.java">
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AppleCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/study.pattern.factory.abstr.AbstactFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>study.pattern.factory.abstr.AbstactFactory</OriginalElement>
+          <nodes>
+            <node x="146.0" y="235.0">study.pattern.factory.abstr.HuaweiFactory</node>
+            <node x="70.0" y="155.0">study.pattern.factory.abstr.AbstactFactory</node>
+            <node x="81.5" y="0.0">study.pattern.factory.abstr.PlaygameFactory</node>
+            <node x="64.0" y="310.0">study.pattern.factory.abstr.CallFactory</node>
+            <node x="167.0" y="80.0">study.pattern.factory.abstr.ApplePlaygame</node>
+            <node x="132.0" y="390.0">study.pattern.factory.abstr.AppleCall</node>
+            <node x="0.0" y="80.0">study.pattern.factory.abstr.HuaweiPlaygame</node>
+            <node x="0.0" y="235.0">study.pattern.factory.abstr.AppleFactory</node>
+            <node x="0.0" y="390.0">study.pattern.factory.abstr.HuaweiCall</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="study.pattern.factory.abstr.AppleCall" target="study.pattern.factory.abstr.CallFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="184.0" y="365.0" />
+              <point x="148.0" y="365.0" />
+              <point x="28.0" y="15.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiPlaygame" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="73.5" y="55.0" />
+              <point x="118.25" y="55.0" />
+              <point x="-36.75" y="15.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleFactory" target="study.pattern.factory.abstr.AbstactFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="63.0" y="210.0" />
+              <point x="104.0" y="210.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiFactory" target="study.pattern.factory.abstr.AbstactFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="213.0" y="210.0" />
+              <point x="172.0" y="210.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiCall" target="study.pattern.factory.abstr.CallFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="56.0" y="365.0" />
+              <point x="92.0" y="365.0" />
+              <point x="-28.0" y="15.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.ApplePlaygame" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="236.5" y="55.0" />
+              <point x="191.75" y="55.0" />
+              <point x="36.75" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-281.0" y="40.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/study.pattern.factory.fact">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>study.pattern.factory.fact</OriginalElement>
+          <nodes>
+            <node x="76.0" y="0.0">study.pattern.factory.fact.MobileFactory</node>
+            <node x="154.0" y="80.0">study.pattern.factory.fact.AppleFactory</node>
+            <node x="0.0" y="80.0">study.pattern.factory.fact.HuaweiFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="study.pattern.factory.fact.HuaweiFactory" target="study.pattern.factory.fact.MobileFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="67.0" y="55.0" />
+              <point x="109.0" y="55.0" />
+              <point x="-33.0" y="15.0" />
+            </edge>
+            <edge source="study.pattern.factory.fact.AppleFactory" target="study.pattern.factory.fact.MobileFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="217.0" y="55.0" />
+              <point x="175.0" y="55.0" />
+              <point x="33.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-134.0" y="-19.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/AbstactFactory.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>study.pattern.factory.abstr.AbstactFactory</OriginalElement>
+          <nodes>
+            <node x="86.51153846153841" y="279.0">study.pattern.factory.abstr.HuaweiFactory</node>
+            <node x="215.0115384615384" y="123.0">study.pattern.factory.abstr.AbstactFactory</node>
+            <node x="610.2807692307694" y="0.0">study.pattern.factory.abstr.PlaygameFactory</node>
+            <node x="127.59230769230771" y="0.0">study.pattern.factory.abstr.CallFactory</node>
+            <node x="797.0115384615384" y="134.5">study.pattern.factory.abstr.ApplePlaygame</node>
+            <node x="471.0115384615384" y="134.5">study.pattern.factory.abstr.AppleCall</node>
+            <node x="615.0115384615384" y="134.5">study.pattern.factory.abstr.HuaweiPlaygame</node>
+            <node x="415.0115384615384" y="279.0">study.pattern.factory.abstr.AppleFactory</node>
+            <node x="10.5" y="134.5">study.pattern.factory.abstr.HuaweiCall</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="study.pattern.factory.abstr.AbstactFactory" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="59.0" y="-38.0" />
+              <point x="392.0115384615384" y="103.0" />
+              <point x="658.8807692307694" y="103.0" />
+              <point x="-32.39999999999998" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleFactory" target="study.pattern.factory.abstr.AppleCall">
+              <point x="0.0" y="-38.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleFactory" target="study.pattern.factory.abstr.CallFactory">
+              <point x="-94.39999999999998" y="-38.0" />
+              <point x="438.61153846153843" y="229.0" />
+              <point x="193.5115384615384" y="229.0" />
+              <point x="193.5115384615384" y="103.0" />
+              <point x="189.5923076923077" y="103.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiFactory" target="study.pattern.factory.abstr.HuaweiCall">
+              <point x="-47.200000000000045" y="-38.0" />
+              <point x="157.31153846153836" y="249.0" />
+              <point x="72.5" y="249.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleFactory" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="94.39999999999998" y="-38.0" />
+              <point x="627.4115384615384" y="259.0" />
+              <point x="969.5115384615384" y="259.0" />
+              <point x="969.5115384615384" y="93.0" />
+              <point x="756.0807692307694" y="93.0" />
+              <point x="64.80000000000001" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleFactory" target="study.pattern.factory.abstr.AbstactFactory">
+              <point x="-47.19999999999999" y="-38.0" />
+              <point x="485.8115384615385" y="219.0" />
+              <point x="392.0115384615384" y="219.0" />
+              <point x="59.0" y="38.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiCall" target="study.pattern.factory.abstr.CallFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="72.5" y="103.0" />
+              <point x="164.79230769230776" y="103.0" />
+              <point x="-24.799999999999955" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AbstactFactory" target="study.pattern.factory.abstr.CallFactory">
+              <point x="-59.0" y="-38.0" />
+              <point x="274.0115384615384" y="83.0" />
+              <point x="214.39230769230767" y="83.0" />
+              <point x="24.799999999999955" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleCall" target="study.pattern.factory.abstr.CallFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="533.0115384615384" y="73.0" />
+              <point x="239.19230769230774" y="73.0" />
+              <point x="49.60000000000002" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.AppleFactory" target="study.pattern.factory.abstr.ApplePlaygame">
+              <point x="47.19999999999999" y="-38.0" />
+              <point x="580.2115384615385" y="249.0" />
+              <point x="878.0115384615384" y="249.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiPlaygame" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="696.0115384615384" y="103.0" />
+              <point x="691.2807692307694" y="103.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiFactory" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="0.0" y="-38.0" />
+              <point x="204.5115384615384" y="93.0" />
+              <point x="626.4807692307693" y="93.0" />
+              <point x="-64.80000000000001" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiFactory" target="study.pattern.factory.abstr.CallFactory">
+              <point x="-94.39999999999998" y="-38.0" />
+              <point x="110.11153846153843" y="259.0" />
+              <point x="0.0" y="259.0" />
+              <point x="0.0" y="93.0" />
+              <point x="139.9923076923077" y="93.0" />
+              <point x="-49.60000000000002" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiFactory" target="study.pattern.factory.abstr.AbstactFactory">
+              <point x="47.200000000000045" y="-38.0" />
+              <point x="251.71153846153845" y="259.0" />
+              <point x="274.0115384615384" y="259.0" />
+              <point x="-59.0" y="38.0" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.HuaweiFactory" target="study.pattern.factory.abstr.HuaweiPlaygame">
+              <point x="94.39999999999998" y="-38.0" />
+              <point x="298.9115384615384" y="239.0" />
+              <point x="696.0115384615384" y="239.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.abstr.ApplePlaygame" target="study.pattern.factory.abstr.PlaygameFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="878.0115384615384" y="103.0" />
+              <point x="723.6807692307693" y="103.0" />
+              <point x="32.400000000000034" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="72.0" y="123.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/fact/fact.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>study.pattern.factory.fact</OriginalElement>
+          <nodes>
+            <node x="104.5" y="0.0">study.pattern.factory.fact.MobileFactory</node>
+            <node x="209.0" y="103.0">study.pattern.factory.fact.AppleFactory</node>
+            <node x="0.0" y="103.0">study.pattern.factory.fact.HuaweiFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="study.pattern.factory.fact.HuaweiFactory" target="study.pattern.factory.fact.MobileFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="94.5" y="78.0" />
+              <point x="151.75" y="78.0" />
+              <point x="-47.25" y="26.5" />
+            </edge>
+            <edge source="study.pattern.factory.fact.AppleFactory" target="study.pattern.factory.fact.MobileFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="303.5" y="78.0" />
+              <point x="246.25" y="78.0" />
+              <point x="47.25" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-209.0" y="66.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/hungry/HungryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/hungry/HungryStaticSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/lazy/LazySimpleSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87" />
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/test/java/com/gupaoedu/vip/pattern/singleton/test/LazyInnerClassSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/test/java/com/gupaoedu/vip/pattern/singleton/test/LazySimpleSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/hungry/Hungry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/software/jdk8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/lazy/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/software/jdk8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="746" column="29" lean-forward="true" selection-start-line="746" selection-start-column="29" selection-end-line="746" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/simple/AppleMobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/test/java/com/gupaoedu/vip/pattern/singleton/test/ExectorThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" lean-forward="true" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/ThreadExector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/pattern/factory/abstr/HuaweiFactory.java">
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/lazy/LazyInnerClassSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="184">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wangjjjjjjjjj-space.iml">
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/LazyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/lazy/Lazy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/register/ContainerSingleton.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/seriable/SeriableSingleton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/threadlocal/ThreadLocalSingleton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/test/java/com/gupaoedu/vip/pattern/singleton/test/EnumSingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="328">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/wangjjjjjjjjj-space/study/pattern/singleton/lazy/LazyInner$InnerClass.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/gupao/课堂源码/gupaoedu-vip-pattern-singleton/src/main/java/com/gupaoedu/vip/pattern/singleton/register/EnumSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/pattern/singleton/register/LazyEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
