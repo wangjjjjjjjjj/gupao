@@ -24,7 +24,10 @@ public class SeriableTest {
             ObjectInputStream ois = new ObjectInputStream(fis);
             b = (SeriableSingleton) ois.readObject();
             System.out.println(a == b);
-
+            oos.close();
+            fos.close();
+            fis.close();
+            ois.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
